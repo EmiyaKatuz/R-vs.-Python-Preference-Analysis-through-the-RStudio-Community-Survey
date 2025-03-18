@@ -11,6 +11,10 @@ The primary data for this analysis is sourced from the repository <https://githu
 
 Data from multiple survey years were combined and processed to harmonize variables and account for survey design differences, providing a robust foundation for trend analysis.
 
+## Outcome
+
+The final outcome report is [milestone4](./milestone4.pdf)
+
 ## Features
 - **Data Integration & Preprocessing:**  
   - Automated cloning and processing of multi-year survey datasets.  
